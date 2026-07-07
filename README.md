@@ -1,5 +1,7 @@
 # PastePNG
 
+PastePNG does not collect or send any data.
+
 Windows won't let you paste a clipboard image into a folder as a file. You copy a screenshot with Win+Shift+S, open Explorer, press Ctrl+V, and nothing happens. The usual workaround is to open Paint, paste, and save. PastePNG skips all that.
 
 Copy an image, click the Explorer window you want, press Ctrl+V. The image lands in that folder as a PNG. That's the whole tool.
